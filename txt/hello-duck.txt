@@ -1,0 +1,21 @@
+REM hello-🦆
+
+REM don't move too fast between each command
+DEFAULTDELAY 250
+REM delay for like.. initz
+DELAY 750
+
+REM open spotlight
+GUI SPACE
+REM search for terminal
+STRING terminal
+REM open terminal
+ENTER
+
+REM lolz
+STRING say 'trololololololololol'
+ENTER
+DELAY 2000
+
+REM GTFOOOOOOO!!!1
+GUI w
